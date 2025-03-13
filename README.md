@@ -1,5 +1,6 @@
 # Java_Projects
 Interactive Number Guessing Game (Java)
+
 •Developed an interactive Java console game that generates random numbers and processes user input
 •Implemented recursive function calls to create continuous gameplay until the correct number is guessed
 •Utilized Java's Math library to generate randomized numbers between 1-10
